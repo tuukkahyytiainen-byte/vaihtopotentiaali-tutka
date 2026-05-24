@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+html {
+  background: #f8fafc;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.leaflet-container {
+  height: 100%;
+  min-height: 100%;
+  font-family: Inter, ui-sans-serif, system-ui, "Segoe UI", Arial, sans-serif;
+  background: #dbeafe;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.16);
+}
+
+.leaflet-popup-content {
+  margin: 12px;
+}
+
+.leaflet-control-attribution {
+  font-size: 10px;
+}
+
+.leaflet-tooltip.postal-area-label {
+  border: 0;
+  border-radius: 6px;
+  background: rgba(15, 23, 42, 0.86);
+  color: #ffffff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.18);
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.15;
+  padding: 4px 6px;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.leaflet-tooltip.postal-area-label::before {
+  display: none;
+}
+
+.leaflet-tooltip.municipality-label {
+  border: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #111827;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.16);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1.1;
+  padding: 5px 8px;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.leaflet-tooltip.municipality-label::before {
+  display: none;
+}
