@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-05-20T14:52:24.302147+00:00",
-  "source_data_dir": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025",
-  "output_dir": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset",
+  "source_data_dir": "\\data_vaihtopotentiaali_2025",
+  "output_dir": "\\data_vaihtopotentiaali_2025\\_codex_dataset",
   "area_level": "Paavo postinumeroalue",
   "score_name": "JSPI - Joukkoliikenteen siirtopotentiaali-indeksi",
   "score_range": "0-100",
