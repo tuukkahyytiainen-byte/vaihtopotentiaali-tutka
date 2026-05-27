@@ -15,16 +15,16 @@
   "base_car_commute_share": 0.7,
   "base_behaviour_potential": 0.65,
   "input_tables_used": {
-    "area_base": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\area_base.parquet",
-    "paavo_selected_indicators": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\paavo_selected_indicators.parquet",
-    "paavo_stats_wide": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\paavo_stats_wide.parquet",
-    "commuting_by_municipality": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\commuting_by_municipality.parquet",
-    "vehicle_stock_by_municipality": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\vehicle_stock_by_municipality.parquet",
-    "car_pressure_by_area": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\car_pressure_by_area.parquet",
-    "transit_service_by_area": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\transit_service_by_area.parquet",
-    "rail_service_by_area": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\rail_service_by_area.parquet",
-    "liipi_by_area": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\liipi_by_area.parquet",
-    "travel_time_competitiveness": "C:\\Users\\tuukk\\.spyder-py3\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\travel_time_competitiveness.parquet"
+    "area_base": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\area_base.parquet",
+    "paavo_selected_indicators": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\paavo_selected_indicators.parquet",
+    "paavo_stats_wide": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\paavo_stats_wide.parquet",
+    "commuting_by_municipality": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\commuting_by_municipality.parquet",
+    "vehicle_stock_by_municipality": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\vehicle_stock_by_municipality.parquet",
+    "car_pressure_by_area": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\car_pressure_by_area.parquet",
+    "transit_service_by_area": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\transit_service_by_area.parquet",
+    "rail_service_by_area": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\rail_service_by_area.parquet",
+    "liipi_by_area": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\liipi_by_area.parquet",
+    "travel_time_competitiveness": "\\data_vaihtopotentiaali_2025\\_codex_dataset\\app_inputs\\travel_time_competitiveness.parquet"
   },
   "key_outputs": {
     "area_features": "app_inputs/area_features.parquet",
