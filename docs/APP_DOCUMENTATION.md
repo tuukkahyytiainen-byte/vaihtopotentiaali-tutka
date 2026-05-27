@@ -74,7 +74,7 @@ Yleisin syy on, etta Viten dev-palvelin ei ole kaynnissa. Selain voi silti osoit
 
 Tarkista seuraavat:
 
-1. Olet projektin juuressa: `C:\Users\tuukk\OneDrive\Tiedostot\New project`
+1. Olet projektin juuressa:
 2. Riippuvuudet ovat asennettu: `node_modules` on olemassa.
 3. Kaynnista palvelin: `npm run dev -- --host 127.0.0.1`
 4. Avaa selainosoite: `http://127.0.0.1:5173/`
